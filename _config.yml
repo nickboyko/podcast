@@ -1,9 +1,9 @@
 title: Strings and Stories
-description: We talk about strings and stories!
+description: "Strings and Stories" is a podcast that dives into the world of stringed instruments and the people who bring them to life. Each episode features interviews with musicians, luthiers, and instrument historians, exploring the unique histories, sounds, and cultural significance of instruments like guitars, violins, banjos, and more. Through engaging conversations, passionate speeches and amazing storytelling, "Strings and Stories" uncovers the passion, craftsmanship, and artistry behind these instruments, offering listeners a rich perspective on the music and stories they inspire.
 author: Nick Boyko
 email: nboyko+podcast@nyu.edu
 lang: en-us
-copyright: "&#x2117; &amp; &#xA9; 2020"
+copyright: "&#x2117; &amp; &#xA9; 2024"
 logo: /assets/img/logo.png
 baseurl: "/podcast" # the subpath of your site, e.g. /blog
 url: "http://nickboyko.github.io" # the base hostname & protocol for your site, e.g. http://example.com
