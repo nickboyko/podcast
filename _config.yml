@@ -5,8 +5,8 @@ email: nboyko+podcast@nyu.edu
 lang: en-us
 copyright: "&#x2117; &amp; &#xA9; 2020"
 logo: /assets/img/logo.png
-# baseurl: "" # the subpath of your site, e.g. /blog
-# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/podcast" # the subpath of your site, e.g. /blog
+url: "http://nickboyko.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
